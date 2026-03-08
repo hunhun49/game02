@@ -1,0 +1,5 @@
+background,speaker,emotion,script
+test,0,,"여기는 1_0_0 스크립트 시작이야."
+test,test,normal,"안녕! 여기는 test 캐릭터야."
+test,test,happy,"현재 대화는 1_0_0.csv에서 불러오고 있어."
+test,0,,"좋아, 다음 파일로 넘어가 보자."

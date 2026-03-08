@@ -1,0 +1,8 @@
+background,speaker,emotion,script
+test,test,sad,"여기는 1_0_1.csv 첫 줄이야."
+test,0,,"speaker가 0이면 플레이어 이름으로 표시된다."
+test,test,angry,"emotion 값에 따라 지정 이미지가 바뀌어."
+test,test,normal,"일반 감정."
+test,test,happy,"기쁜 감정."
+test,test,angry,"화난 감정."
+test,test,sad,"슬픈 감정."
